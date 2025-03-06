@@ -1,4 +1,4 @@
-👋 Holaa, I’m @eddthekidd. I am a Computer Engineer graduated from Far Eastern University Institute of Technology, professionally I reside in the Philippines and working as a CAD Engineer in Nimbyx.
+👋 Holaa, I’m @eddthekidd. I am a Computer Engineer graduated from Far Eastern University Institute of Technology, professionally I reside in the Philippines.
 
 👀 I have a strong interest in embedded systems, particularly hardware-related technologies such as drones. However, coding also fascinates me. Over time, this curiosity has evolved into a true passion, shaped
     by a trait I developed from a young age. As a naturally curious child, I loved taking things apart, closeley examining their components, and constantly wondering, "How does this work?" After satisfying my 
